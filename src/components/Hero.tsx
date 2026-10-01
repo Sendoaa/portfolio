@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { ArrowRight, Mail, Phone, MapPin } from 'lucide-react';
+import { ArrowRight, MapPin } from 'lucide-react';
 import { GithubIcon, LinkedinIcon } from './Icons';
 import { ParticlesBackground } from './ParticlesBackground';
 import { TypeAnimation } from 'react-type-animation';

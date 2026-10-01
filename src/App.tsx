@@ -9,9 +9,6 @@ import { Contact } from './components/Contact';
 import { CustomCursor } from './components/CustomCursor';
 import { ScrollProgress } from './components/ScrollProgress';
 import { Preloader } from './components/Preloader';
-
-import { Marquee } from './components/Marquee';
-
 import { AuroraBackground } from './components/AuroraBackground';
 
 function App() {

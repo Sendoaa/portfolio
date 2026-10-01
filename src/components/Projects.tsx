@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { ExternalLink, Layers } from 'lucide-react';
-import { GithubIcon } from './Icons';
+import { Layers } from 'lucide-react';
 import { TiltCard } from './TiltCard';
 import { cn } from '../lib/utils';
 
